@@ -31,6 +31,7 @@ bash
 Copy
 Edit
 git clone https://github.com/Prithivirajan-J/breast_cancer_detection
+
 cd breast-cancer-detector
 
 -Install requirements

@@ -30,7 +30,7 @@ UCI Breast Cancer Dataset
 bash
 Copy
 Edit
-git clone https://github.com/your-username/breast-cancer-detector.git
+git clone https://github.com/Prithivirajan-J/breast_cancer_detection
 cd breast-cancer-detector
 
 -Install requirements
@@ -38,6 +38,7 @@ cd breast-cancer-detector
 bash
 Copy
 Edit
+
 pip install -r requirements.txt
 Run the app
 
@@ -50,6 +51,7 @@ streamlit run app.py
 bash
 Copy
 Edit
+
 breast-cancer-detector/
 │
 ├── model.py                # Trains and saves the model

@@ -41,11 +41,16 @@ Copy
 Edit
 
 pip install -r requirements.txt
+
 Run the app
 
+
 bash
+
 Copy
+
 Edit
+
 streamlit run app.py
 
 🎯 Inspiration

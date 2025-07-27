@@ -48,19 +48,6 @@ Copy
 Edit
 streamlit run app.py
 
-📁 Project Structure
-bash
-Copy
-Edit
-
-breast-cancer-detector/
-│
-├── model.py                # Trains and saves the model
-├── app.py                  # Streamlit web app
-├── breast_cancer_model.pkl # Trained model file
-├── requirements.txt        # Dependencies
-└── README.md               # You're here!
-
 🎯 Inspiration
 Breast cancer detection is a real-world use of machine learning in healthcare. This project offers a meaningful way to learn classification algorithms while understanding their potential impact.
 
